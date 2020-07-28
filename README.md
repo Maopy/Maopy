@@ -8,7 +8,7 @@
     height="150"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maopy&layout=compact&bg_color=fafafa&title_color=399ee6&hide=html"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maopy&layout=compact&bg_color=fafafa&title_color=f2ae49&hide=html"
     height="150"
   />
 </p>
